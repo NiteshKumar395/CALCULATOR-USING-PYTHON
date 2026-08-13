@@ -14,7 +14,7 @@ Python 3.14 installed on your device
 ## How to Run
 1. Clone this repository:
    \bash
-   git clone - https://github.com/NiteshKumar395/CALCULATOR-USING PYTHON.git
+   git clone - https://github.com/NiteshKumar395/CALCULATOR-USING-PYTHON.git
 
 2. Navigate into the project folder:
    \bash
